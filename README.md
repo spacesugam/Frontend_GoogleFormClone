@@ -102,7 +102,7 @@ The application interacts with a backend server to fetch and update submission d
 ![Main Form](ScreenShots/Screenshot1.png)
 
 ### Create Submission Form
-![Create Submission Form](Screenshot2.png)
+![Create Submission Form](ScreenShots/Screenshot2.png)
 
 ### View Submission Form
 ![View Submission Form](ScreenShots/Screenshot3.png)
