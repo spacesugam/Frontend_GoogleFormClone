@@ -98,7 +98,7 @@ The application interacts with a backend server to fetch and update submission d
 - **Edit Submission**: Toggle read-only mode for text boxes to edit submission details.
 - **Delete Submission**: Delete an existing submission.
 
-## Screenshots
+## ScreenShots
 <!-- Include screenshots of your application here -->
 
 ## Contributing
