@@ -1,0 +1,17 @@
+C:\Users\sugam\source\repos\FormClone\bin\Debug\FormClone.exe.config
+C:\Users\sugam\source\repos\FormClone\bin\Debug\FormClone.exe
+C:\Users\sugam\source\repos\FormClone\bin\Debug\FormClone.pdb
+C:\Users\sugam\source\repos\FormClone\bin\Debug\FormClone.xml
+C:\Users\sugam\source\repos\FormClone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sugam\source\repos\FormClone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sugam\source\repos\FormClone\obj\Debug\FormClone.vbproj.AssemblyReference.cache
+C:\Users\sugam\source\repos\FormClone\obj\Debug\FormClone.CreateSubmissionForm.resources
+C:\Users\sugam\source\repos\FormClone\obj\Debug\FormClone.Form1.resources
+C:\Users\sugam\source\repos\FormClone\obj\Debug\FormClone.Resources.resources
+C:\Users\sugam\source\repos\FormClone\obj\Debug\FormClone.ViewSubmissionsForm.resources
+C:\Users\sugam\source\repos\FormClone\obj\Debug\FormClone.vbproj.GenerateResource.cache
+C:\Users\sugam\source\repos\FormClone\obj\Debug\FormClone.vbproj.CoreCompileInputs.cache
+C:\Users\sugam\source\repos\FormClone\obj\Debug\FormClone.vbproj.CopyComplete
+C:\Users\sugam\source\repos\FormClone\obj\Debug\FormClone.exe
+C:\Users\sugam\source\repos\FormClone\obj\Debug\FormClone.xml
+C:\Users\sugam\source\repos\FormClone\obj\Debug\FormClone.pdb
