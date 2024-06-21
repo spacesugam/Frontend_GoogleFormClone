@@ -113,12 +113,3 @@ Contributions are welcome! Please follow these steps to contribute:
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
-
-This Markdown formatting will create a well-structured README file on GitHub. It includes:
-
-- Headers of different levels for better organization
-- Code blocks for installation commands
-- Lists for features and instructions
-- Links in the Table of Contents for easy navigation
-
-You can copy this Markdown code directly into your README.md file on GitHub. Remember to replace `yourusername` in the clone URL with your actual GitHub username, and add any screenshots in the designated area if you have them.
